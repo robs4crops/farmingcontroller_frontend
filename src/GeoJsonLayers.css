@@ -1,0 +1,3 @@
+.tractor {
+    filter: invert(50%) sepia(49%) saturate(1445%) hue-rotate(2deg) brightness(106%) contrast(98%);
+}

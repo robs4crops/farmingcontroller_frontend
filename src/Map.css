@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #map {
+      position: absolute;
+      top: 0;
+      left: 20vw;
+      bottom:0;
+      width: 80vw;
+  }
