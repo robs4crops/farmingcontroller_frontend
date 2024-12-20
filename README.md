@@ -2,6 +2,8 @@
 
 A React-based dashboard for visualizing and controlling field operations, featuring real-time mapping, route planning, and tank level monitoring.
 
+![Front end](docs/example.png)
+
 ## Features
 
 - Interactive map visualization with GeoJSON layers
@@ -20,4 +22,4 @@ A React-based dashboard for visualizing and controlling field operations, featur
 ## Usage
 
 1. set up the simple farm controller
-2. ```npm run start```
+2. `npm run start`
